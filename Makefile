@@ -4,4 +4,4 @@ all:
 
 test:		
 	@[ "$(BRANCH)" = "master" -o "$(BRANCH)" = "" ] \
-	    || { (echo "$(BRANCH)" | grep -q challenge) && .scripts/submit.py; }
+	    || { (echo "$(BRANCH)" | grep -q contest) && .scripts/submit.py; }
