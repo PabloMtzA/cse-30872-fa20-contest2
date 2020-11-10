@@ -3,5 +3,5 @@
 
 ## Group Members
 
-- Domer McDomerson (dmcdomers@nd.edu) 
-- Belle Fleur (bfleur@nd.edu) 
+- Pablo Martinez-Abrego Gonzalez (pmarti22@nd.edu) 
+- Mauricio Interiano (minteri2@nd.edu) 
